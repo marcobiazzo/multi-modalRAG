@@ -2,10 +2,6 @@
 
 This codelab demonstrates how to build a question-answering system using multi-modal retrieval augmented generation (RAG) with Gemini Pro.
 
-**Last updated:** June 27, 2024
-
-**Authors:** Bhushan Garware, Aditya Rane, Leonid Kuligin
-
 ## Introduction
 
 This codelab explores the concept of multi-modal RAG, which enhances traditional RAG systems by incorporating visual information from images. This approach allows for a deeper understanding of information and enables more accurate and comprehensive answers to user queries, especially when dealing with documents containing graphs, diagrams, and other visual elements.
@@ -42,3 +38,5 @@ This codelab guides you through building a question-answering system using Gemin
 5. **Question answering:** Develop a multi-modal RAG chain for question answering.
 
 This codelab provides a hands-on experience in building a multi-modal RAG system, enabling you to leverage the power of Gemini Pro for advanced question answering and information extraction tasks.
+
+**Codelab Authors:** Bhushan Garware, Aditya Rane, Leonid Kuligin
